@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="70" viewBox="0 0 1200 70" role="img" aria-label="Total depth not reached - still drilling">
+<style>.b{animation:p 2.4s ease-in-out infinite}@keyframes p{50%{opacity:.25}}@media (prefers-reduced-motion:reduce){.b{animation:none}}</style>
+<rect width="1200" height="70" rx="14" fill="#141D1B"/>
+<line x1="40" y1="35" x2="840" y2="35" stroke="#93A39D" stroke-dasharray="6 5"/>
+<text x="860" y="40" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#E4EBE7">TD not reached - still drilling</text>
+<circle class="b" cx="1140" cy="35" r="6" fill="#5CC08A"/>
+</svg>

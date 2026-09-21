@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="260" viewBox="0 0 580 260" role="img" aria-label="Payment Recovery Agent: Triages failed payments and picks a recovery action">
+<rect width="580" height="260" rx="14" fill="#141D1B"/>
+<rect x="476" y="16" width="84" height="228" rx="8" fill="#1A2522" stroke="#2C3B37"/>
+<g opacity=".8"><line x1="482" y1="24.0" x2="554" y2="24.0" stroke="#2C3B37" stroke-width="1"/>
+<line x1="482" y1="35.8" x2="554" y2="35.8" stroke="#223029" stroke-width="1"/>
+<line x1="482" y1="47.6" x2="554" y2="47.6" stroke="#223029" stroke-width="1"/>
+<line x1="482" y1="59.4" x2="554" y2="59.4" stroke="#223029" stroke-width="1"/>
+<line x1="482" y1="71.2" x2="554" y2="71.2" stroke="#223029" stroke-width="1"/>
+<line x1="482" y1="83.0" x2="554" y2="83.0" stroke="#2C3B37" stroke-width="1"/>
+<line x1="482" y1="94.8" x2="554" y2="94.8" stroke="#223029" stroke-width="1"/>
+<line x1="482" y1="106.6" x2="554" y2="106.6" stroke="#223029" stroke-width="1"/>
+<line x1="482" y1="118.4" x2="554" y2="118.4" stroke="#223029" stroke-width="1"/>
+<line x1="482" y1="130.2" x2="554" y2="130.2" stroke="#223029" stroke-width="1"/>
+<line x1="482" y1="142.0" x2="554" y2="142.0" stroke="#2C3B37" stroke-width="1"/>
+<line x1="482" y1="153.8" x2="554" y2="153.8" stroke="#223029" stroke-width="1"/>
+<line x1="482" y1="165.6" x2="554" y2="165.6" stroke="#223029" stroke-width="1"/>
+<line x1="482" y1="177.4" x2="554" y2="177.4" stroke="#223029" stroke-width="1"/>
+<line x1="482" y1="189.2" x2="554" y2="189.2" stroke="#223029" stroke-width="1"/>
+<line x1="482" y1="201.0" x2="554" y2="201.0" stroke="#2C3B37" stroke-width="1"/>
+<line x1="482" y1="212.8" x2="554" y2="212.8" stroke="#223029" stroke-width="1"/>
+<line x1="482" y1="224.6" x2="554" y2="224.6" stroke="#223029" stroke-width="1"/>
+<line x1="482.0" y1="24" x2="482.0" y2="236" stroke="#223029" stroke-width="1"/>
+<line x1="500.0" y1="24" x2="500.0" y2="236" stroke="#223029" stroke-width="1"/>
+<line x1="518.0" y1="24" x2="518.0" y2="236" stroke="#223029" stroke-width="1"/>
+<line x1="536.0" y1="24" x2="536.0" y2="236" stroke="#223029" stroke-width="1"/>
+<line x1="554.0" y1="24" x2="554.0" y2="236" stroke="#223029" stroke-width="1"/></g>
+<path d="M517.6,24.0 C517.6,26.5 516.3,26.5 516.3,29.0 C516.3,31.5 512.7,31.5 512.7,34.0 C512.7,36.5 517.6,36.5 517.6,39.0 C517.6,41.5 512.4,41.5 512.4,44.0 C512.4,46.5 513.4,46.5 513.4,49.0 C513.4,51.5 518.5,51.5 518.5,54.0 C518.5,56.5 513.9,56.5 513.9,59.0 C513.9,61.5 515.2,61.5 515.2,64.0 C515.2,66.5 517.0,66.5 517.0,69.0 C517.0,71.5 512.2,71.5 512.2,74.0 C512.2,76.5 511.9,76.5 511.9,79.0 C511.9,81.5 515.2,81.5 515.2,84.0 C515.2,86.5 515.2,86.5 515.2,89.0 C515.2,91.5 518.1,91.5 518.1,94.0 C518.1,96.5 514.4,96.5 514.4,99.0 C514.4,101.5 512.2,101.5 512.2,104.0 C512.2,106.5 509.1,106.5 509.1,109.0 C509.1,111.5 510.7,111.5 510.7,114.0 C510.7,116.5 516.6,116.5 516.6,119.0 C516.6,121.5 517.9,121.5 517.9,124.0 C517.9,126.5 520.8,126.5 520.8,129.0 C520.8,131.5 519.1,131.5 519.1,134.0 C519.1,136.5 521.5,136.5 521.5,139.0 C521.5,141.5 516.6,141.5 516.6,144.0 C516.6,146.5 514.6,146.5 514.6,149.0 C514.6,151.5 517.1,151.5 517.1,154.0 C517.1,156.5 519.7,156.5 519.7,159.0 C519.7,161.5 518.5,161.5 518.5,164.0 C518.5,166.5 514.0,166.5 514.0,169.0 C514.0,171.5 512.2,171.5 512.2,174.0 C512.2,176.5 510.1,176.5 510.1,179.0 C510.1,181.5 509.2,181.5 509.2,184.0 C509.2,186.5 514.1,186.5 514.1,189.0 C514.1,191.5 511.6,191.5 511.6,194.0 C511.6,196.5 516.9,196.5 516.9,199.0 C516.9,201.5 521.2,201.5 521.2,204.0 C521.2,206.5 515.8,206.5 515.8,209.0 C515.8,211.5 514.9,211.5 514.9,214.0 C514.9,216.5 515.4,216.5 515.4,219.0 C515.4,221.5 510.7,221.5 510.7,224.0 C510.7,226.5 511.2,226.5 511.2,229.0 C511.2,231.5 516.8,231.5 516.8,234.0" fill="none" stroke="#EF6F5E" stroke-width="2"/>
+<rect x="20" y="30" width="4" height="30" rx="2" fill="#EF6F5E"/>
+<text x="32" y="54" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="-.5" fill="#E4EBE7">Payment Recovery Agent</text>
+<text x="32" y="84" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#93A39D">Triages failed payments and picks a recovery action</text>
+<text x="32" y="124" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" fill="#93A39D">Mode</text><text x="32" y="152" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#E4EBE7">agentic triage</text><text x="32" y="186" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" fill="#93A39D">Improves via</text><text x="32" y="214" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#E4EBE7">self-distillation</text>
+<text x="32" y="238" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#93A39D">Python / FastAPI / LLM agents / Render</text>
+</svg>
